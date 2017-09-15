@@ -1,0 +1,10 @@
+C:\Users\krumm_000\Desktop\GitHub\BlockchainConsoleDemo\BlockchainConsoleDemo\bin\Debug\netcoreapp1.1\BlockchainConsoleDemo.deps.json
+C:\Users\krumm_000\Desktop\GitHub\BlockchainConsoleDemo\BlockchainConsoleDemo\bin\Debug\netcoreapp1.1\BlockchainConsoleDemo.runtimeconfig.json
+C:\Users\krumm_000\Desktop\GitHub\BlockchainConsoleDemo\BlockchainConsoleDemo\bin\Debug\netcoreapp1.1\BlockchainConsoleDemo.runtimeconfig.dev.json
+C:\Users\krumm_000\Desktop\GitHub\BlockchainConsoleDemo\BlockchainConsoleDemo\bin\Debug\netcoreapp1.1\BlockchainConsoleDemo.dll
+C:\Users\krumm_000\Desktop\GitHub\BlockchainConsoleDemo\BlockchainConsoleDemo\obj\Debug\netcoreapp1.1\BlockchainConsoleDemo.csprojResolveAssemblyReference.cache
+C:\Users\krumm_000\Desktop\GitHub\BlockchainConsoleDemo\BlockchainConsoleDemo\obj\Debug\netcoreapp1.1\BlockchainConsoleDemo.csproj.CoreCompileInputs.cache
+C:\Users\krumm_000\Desktop\GitHub\BlockchainConsoleDemo\BlockchainConsoleDemo\obj\Debug\netcoreapp1.1\BlockchainConsoleDemo.AssemblyInfo.cs
+C:\Users\krumm_000\Desktop\GitHub\BlockchainConsoleDemo\BlockchainConsoleDemo\bin\Debug\netcoreapp1.1\BlockchainConsoleDemo.pdb
+C:\Users\krumm_000\Desktop\GitHub\BlockchainConsoleDemo\BlockchainConsoleDemo\obj\Debug\netcoreapp1.1\BlockchainConsoleDemo.dll
+C:\Users\krumm_000\Desktop\GitHub\BlockchainConsoleDemo\BlockchainConsoleDemo\obj\Debug\netcoreapp1.1\BlockchainConsoleDemo.pdb
